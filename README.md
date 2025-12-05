@@ -61,29 +61,29 @@ Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。�
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p9.png)
 # 扫描报告
 **专业报告输出**：一键生成HTML/Excel格式的扫描报告，包含攻击面综合报告，满足渗透测试交付需求。
-![image](https://github.com/kk12-30/Dscan/blob/main/pic/10.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p10.png)
 # 系统日志
 **全程日志追踪**：记录扫描过程中的每一步操作日志，便于问题排查与任务回溯，确保扫描过程可审计、可追溯。
-![image](https://github.com/kk12-30/Dscan/blob/main/pic/11.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p11.png)
 # 漏洞情报
 **实时威胁情报**：对接最新漏洞情报源，及时推送高危漏洞预警，帮助安全团队快速响应新型威胁。
-![image](https://github.com/kk12-30/Dscan/blob/main/pic/12.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p12.png)
 # 空间测绘
 **网络空间探测**：集成Fofa、Hunter、Quake空间测绘引擎，快速检索互联网暴露资产，扩展攻击面发现范围。
-![image](https://github.com/kk12-30/Dscan/blob/main/pic/13.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p13.png)
 
 # **管理中心*
 # 扫描任务
 **任务调度中心**：查看所有扫描任务的执行状态、进度百分比、耗时统计，支持任务暂停、恢复、终止等操作。
-![image](https://github.com/kk12-30/Dscan/blob/main/pic/14.png)
-![image](https://github.com/kk12-30/Dscan/blob/main/pic/15.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p14.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p15.png)
 # 定时任务
 **周期性扫描**：配置定时扫描计划，支持按天、周、月周期自动执行，实现资产安全的持续监控与漏洞巡检，支持钉钉机器人获取结果。
-![image](https://github.com/kk12-30/Dscan/blob/main/pic/16.png)
-![image](https://github.com/kk12-30/Dscan/blob/main/pic/17.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p16.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p17.png)
 # POC/指纹
 **武器库管理**：管理内置的POC漏洞检测脚本与指纹识别规则，支持自定义POC导入、启用/禁用、分类管理。
-![image](https://github.com/kk12-30/Dscan/blob/main/pic/18.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p18.png)
 
 # 分布式节点
 **集群扩展能力**：支持部署多个扫描节点，实现分布式并行扫描，大幅提升大规模资产的扫描效率与吞吐量。
