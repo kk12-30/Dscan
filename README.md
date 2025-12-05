@@ -50,34 +50,40 @@ Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。�
 # 子域名爆破
 **子域名发现利器**：内置海量字典，支持DNS爆破与泛解析过滤，快速枚举目标域名下的所有子域名资产。
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p6.png)
+
 # **数据中心*
 # 漏洞发现
-**漏洞情报库**：集中展示所有扫描发现的漏洞，支持按严重程度、漏洞类型、目标资产多维度筛选，详细记录漏洞复现步骤与修复建议。
-
+**漏洞展示库**：集中展示所有扫描发现的漏洞，支持按严重程度、漏洞类型、目标资产多维度筛选。
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p7.png)
 # 资产发现
 **资产清单管理**：自动归集扫描发现的IP、端口、服务、Web应用等资产信息，构建完整的攻击面资产地图。
-
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p8.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p9.png)
 # 扫描报告
-**专业报告输出**：一键生成HTML/Excel格式的扫描报告，包含漏洞详情、风险评估、修复建议，满足渗透测试交付需求。
-
+**专业报告输出**：一键生成HTML/Excel格式的扫描报告，包含攻击面综合报告，满足渗透测试交付需求。
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/10.png)
 # 系统日志
 **全程日志追踪**：记录扫描过程中的每一步操作日志，便于问题排查与任务回溯，确保扫描过程可审计、可追溯。
-
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/11.png)
 # 漏洞情报
 **实时威胁情报**：对接最新漏洞情报源，及时推送高危漏洞预警，帮助安全团队快速响应新型威胁。
-
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/12.png)
 # 空间测绘
-**网络空间探测**：集成Fofa、Hunter、Quake等空间测绘引擎，快速检索互联网暴露资产，扩展攻击面发现范围。
+**网络空间探测**：集成Fofa、Hunter、Quake空间测绘引擎，快速检索互联网暴露资产，扩展攻击面发现范围。
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/13.png)
 
 # **管理中心*
 # 扫描任务
 **任务调度中心**：查看所有扫描任务的执行状态、进度百分比、耗时统计，支持任务暂停、恢复、终止等操作。
-
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/14.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/15.png)
 # 定时任务
-**周期性扫描**：配置定时扫描计划，支持按天、周、月周期自动执行，实现资产安全的持续监控与漏洞巡检。
-
+**周期性扫描**：配置定时扫描计划，支持按天、周、月周期自动执行，实现资产安全的持续监控与漏洞巡检，支持钉钉机器人获取结果。
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/16.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/17.png)
 # POC/指纹
 **武器库管理**：管理内置的POC漏洞检测脚本与指纹识别规则，支持自定义POC导入、启用/禁用、分类管理。
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/18.png)
 
 # 分布式节点
 **集群扩展能力**：支持部署多个扫描节点，实现分布式并行扫描，大幅提升大规模资产的扫描效率与吞吐量。
