@@ -2,6 +2,11 @@
 ## 项目简介
 Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。它集成了资产发现、漏洞扫描、指纹识别、空间测绘等多种能力，并提供了可视化的态势大屏和专业报告输出，拥有三种主题切换，旨在帮助安全团队高效地进行攻击面管理和漏洞生命周期管理。
 
+# 更新记录
+## [v1.0] - 2025-12-05
+### 功能优化
+- **POC/指纹升级**：Next.js RCE漏洞、GeoServer XXE注入漏洞、FortiWeb 、Oracle_E_Business 、泛微E Cology等
+
 ## 目录
 - [登录界面](#登录界面)
 - [态势大屏](#态势大屏)
@@ -35,6 +40,7 @@ Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。�
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p2.png)
 # 新建扫描
 **一键启动扫描**：支持IP、域名、URL等多种目标输入，灵活配置端口范围、扫描深度、POC选择，轻松发起全方位资产探测与漏洞扫描。
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p5.png)
 # URL爬虫
 **智能爬虫引擎**：自动抓取目标站点的URL路径、接口地址、敏感文件，为后续漏洞扫描提供全面的攻击面信息。
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p3.png)
@@ -43,7 +49,7 @@ Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。�
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p4.png)
 # 子域名爆破
 **子域名发现利器**：内置海量字典，支持DNS爆破与泛解析过滤，快速枚举目标域名下的所有子域名资产。
-
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p6.png)
 # **数据中心*
 # 漏洞发现
 **漏洞情报库**：集中展示所有扫描发现的漏洞，支持按严重程度、漏洞类型、目标资产多维度筛选，详细记录漏洞复现步骤与修复建议。
