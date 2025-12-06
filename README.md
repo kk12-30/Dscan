@@ -4,8 +4,7 @@ Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。�
 
 # 更新记录
 ## [v1.0] - 2025-12-05
-### 功能优化
-- **POC/指纹升级**：Next.js RCE漏洞、GeoServer XXE注入漏洞、FortiWeb 、Oracle_E_Business 、泛微E Cology等
+**POC/指纹升级**：Next.js RCE漏洞、GeoServer XXE注入漏洞、FortiWeb 、Oracle_E_Business 、泛微E Cology等
 
 ## 目录
 - [登录界面](#登录界面)
