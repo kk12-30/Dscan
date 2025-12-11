@@ -55,6 +55,8 @@ Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。�
 # 子域名爆破
 **子域名发现利器**：内置海量字典，支持DNS爆破与泛解析过滤，快速枚举目标域名下的所有子域名资产。
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p6.png)
+# Nmap端口扫描
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt1.png)
 
 # **数据中心*
 # 漏洞发现
