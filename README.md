@@ -62,6 +62,8 @@ Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。�
 # 漏洞发现
 **漏洞展示库**：集中展示所有扫描发现的漏洞，支持按严重程度、漏洞类型、目标资产多维度筛选。
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p7.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt2.png)
+
 # 资产发现
 **资产清单管理**：资产分组管理，自动归集扫描发现的IP、端口、服务、Web应用等资产信息，构建完整的攻击面资产地图。
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p8.png)
