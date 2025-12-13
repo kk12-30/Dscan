@@ -3,6 +3,8 @@
 Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。它集成了资产发现、漏洞扫描、指纹识别、空间测绘等多种能力，并提供了可视化的态势大屏和专业报告输出，拥有三种主题切换，旨在帮助安全团队高效地进行攻击面管理和漏洞生命周期管理。
 
 # 更新记录
+## [v1.4]
+**功能升级**：新增AI对话模块、适配手机端Web界面
 ## [v1.3]
 **功能升级**：新增Nmap端口扫描模块、威胁分布图、修复hunter的bug
 ## [v1.2]
@@ -57,6 +59,8 @@ Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。�
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p6.png)
 # Nmap端口扫描
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt1.png)
+# AI对话
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt2.png)
 
 # **数据中心*
 # 漏洞发现
