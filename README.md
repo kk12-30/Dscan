@@ -61,7 +61,7 @@ Dscan​ 是一个功能全面的自动化安全扫描与资产管理平台。�
 # Nmap端口扫描
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt1.png)
 # AI对话
-![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt2.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt4.png)
 
 # **数据中心*
 # 漏洞发现
