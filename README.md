@@ -64,6 +64,8 @@ Dscan​ 是一个功能全面的新一代智能化攻击面管理与渗透测�
 # Nmap端口扫描
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt1.png)
 # AI对话
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt5.png)
+# 敏感文件检测
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt4.png)
 
 # **数据中心*
