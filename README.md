@@ -36,6 +36,7 @@ Dscan​ 是一个功能全面的新一代智能化攻击面管理与渗透测�
   - [系统日志](#系统日志)
   - [漏洞情报](#漏洞情报)
   - [空间测绘](#空间测绘)
+  - [企业信息搜集](#企业信息搜集)
 - [管理中心](#管理中心)
   - [扫描任务](#扫描任务)
   - [定时任务](#定时任务)
@@ -93,6 +94,10 @@ Dscan​ 是一个功能全面的新一代智能化攻击面管理与渗透测�
 # 空间测绘
 **网络空间探测**：集成Fofa、Hunter、Quake空间测绘引擎，快速检索互联网暴露资产，扩展攻击面发现范围。
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p13.png)
+# 企业信息搜集
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt6.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/pt7.png)
+
 
 # **管理中心*
 # 扫描任务
