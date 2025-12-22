@@ -95,6 +95,8 @@ Dscan​ 是一个功能全面的新一代智能化攻击面管理与渗透测�
 # 扫描报告
 **专业报告输出**：一键生成HTML/Excel格式的扫描报告，包含攻击面综合报告，满足渗透测试交付需求。
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p10.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p1222-2.png)
+
 # 系统日志
 **全程日志追踪**：记录扫描过程中的每一步操作日志，便于问题排查与任务回溯，确保扫描过程可审计、可追溯。
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p11.png)
