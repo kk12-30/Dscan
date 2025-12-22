@@ -34,6 +34,7 @@ Dscan​ 是一个功能全面的新一代智能化攻击面管理与渗透测�
 - [数据中心](#数据中心)
   - [漏洞发现](#漏洞发现)
   - [资产发现](#资产发现)
+  - [资产拓扑图](#资产拓扑图)
   - [扫描报告](#扫描报告)
   - [系统日志](#系统日志)
   - [漏洞情报](#漏洞情报)
@@ -84,6 +85,8 @@ Dscan​ 是一个功能全面的新一代智能化攻击面管理与渗透测�
 **资产清单管理**：资产分组管理，自动归集扫描发现的IP、端口、服务、Web应用等资产信息，构建完整的攻击面资产地图。
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p8.png)
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p9.png)
+# 资产拓扑图
+![image](https://github.com/kk12-30/Dscan/blob/main/pic/p1222.png)
 # 扫描报告
 **专业报告输出**：一键生成HTML/Excel格式的扫描报告，包含攻击面综合报告，满足渗透测试交付需求。
 ![image](https://github.com/kk12-30/Dscan/blob/main/pic/p10.png)
